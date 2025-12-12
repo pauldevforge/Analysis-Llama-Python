@@ -1,1 +1,6 @@
 llama-cpp-python
+mistral_inference
+diffusers 
+transformers 
+accelerate 
+safetensors

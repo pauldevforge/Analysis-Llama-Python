@@ -1,3 +1,8 @@
 venv/
 models/
 __pycache__/
+
+sdxl-turbo/
+qwen-vl/
+*.png
+ref
